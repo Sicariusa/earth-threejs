@@ -9,7 +9,7 @@ A beautiful interactive 3D Earth visualization built with [Three.js](https://thr
 - Interactive camera controls (OrbitControls)
 
 ## Demo
-Open `earth-threejs-eta.vercel.app` in your browser to view the Earth in action.
+Open earth-threejs-eta.vercel.app in your browser to view the Earth in action.
 
 ![Earth Preview](earth.jpg)
 
